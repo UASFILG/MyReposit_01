@@ -1,3 +1,6 @@
+# Swap Files
+*.swp
+
 # Compiled Lua sources
 luac.out
 
